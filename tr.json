@@ -1,0 +1,124 @@
+{
+  "ui": {
+    "title": "Namaz Vakitleri",
+    "subtitle": "Dünyanın neresinde olursan ol 🌍",
+    "languageLabel": "🌐 Dil",
+    "ramadanCountdownTitle": "Ramazan Geri Sayımı",
+    "notifButton": "Bildirimlere izin ver",
+    "locationTitle": "Konum Seçimi",
+    "locationHelp": "Otomatik konum, koordinat veya yer adı ile vakitleri alabilirsin.",
+    "locationButton": "Konumumu kullan",
+    "latLabel": "Enlem",
+    "lonLabel": "Boylam",
+    "manualHelp": "Enlem ve boylamı elle girerek de kullanabilirsin.",
+    "manualButton": "Koordinatları kullan",
+    "nameLabel": "Şehir / yer adı",
+    "namePlaceholder": "Örn. Pfungstadt, Berlin, İstanbul",
+    "nameHelp": "Daha doğru sonuç için ülke ve şehir adını birlikte yazman önerilir.",
+    "statusWaiting": "Başlamak için konum seçmen yeterli.",
+    "inspTitle": "Bugün için hatırlatma",
+    "inspHelp": "Kısa bir ayet meali ve ibadete teşvik eden bir not.",
+    "inspRefresh": "Başka bir ayet göster",
+    "refreshTimes": "Vakitleri yenile",
+    "currentTimeTitle": "Şu anki saat",
+    "countdownTitle": "Sıradaki vakit",
+    "countdownNoData": "Önce konum seç ve vakitleri getir.",
+    "ramadanInlinePlaceholder": "Ramazan ayına ait imsakiye bilgisi burada görünecek.",
+    "ramadanCountdownText": "Ramazan için henüz geri sayım verisi yok.",
+    "footerSource": "Vakit kaynağı: AlAdhan API",
+    "footerNote": "Konum için tarayıcı/iOS, HTTPS sayfalarda izin vermeyi unutma. Çalışmazsa koordinatları veya yer adını kullanabilirsin.",
+    "calTitle": "Ramazan İmsakiyesi",
+    "calHelp": "Seçili konum ve yıl için Ramazan ayındaki tüm günlerin imsak ve iftar vakitlerini tablo halinde gösterir.",
+    "calYearLabel": "Yıl",
+    "calBtnText": "İmsakiyeyi getir",
+    "coordsPrefix": "Konum",
+    "statusLoadingTimes": "Namaz vakitleri getiriliyor…",
+    "statusSuccessTimes": "Namaz vakitleri güncellendi.",
+    "statusLocationUnsupported": "Tarayıcın konum iznini desteklemiyor. Koordinat veya yer adı ile devam edebilirsin.",
+    "statusGettingLocation": "Konum alınıyor…",
+    "statusLocationDenied": "Konum izni reddedildi. Koordinat veya yer adı ile devam edebilirsin.",
+    "statusLocationError": "Konum alınırken bir hata oluştu.",
+    "statusInvalidCoords": "Lütfen geçerli enlem ve boylam gir.",
+    "statusInvalidName": "Lütfen geçerli bir yer adı yaz.",
+    "calStatusLoading": "Ramazan imsakiyesi getiriliyor…",
+    "calStatusNoData": "Bu yıl için Ramazan verisi bulunamadı.",
+    "calStatusErrorPrefix": "İmsakiye alınırken hata: ",
+    "statusErrorTimesPrefix": "Vakitler alınırken hata oluştu: ",
+    "notifImsakSoon": "İmsak vaktine 10 dakika kaldı.",
+    "notifIftarSoon": "İftar vaktine 10 dakika kaldı.",
+    "ramadanIftarInMinutes": "İftar vaktine {minutes} dakika kaldı",
+    "ramadanImsakInMinutes": "İmsak vaktine {minutes} dakika kaldı",
+    "ramadanIftarInTime": "İftara {time} kaldı",
+    "ramadanImsakInTime": "İmsak vaktine {time} kaldı",
+    "ramadanImsakStarted": "İmsak vakti girdi",
+    "ramadanIftarStarted": "İftar vakti girdi",
+    "ramadanInlineNoData": "Bugün için Ramazan geri sayım bilgisi bulunamadı.",
+    "countdownCurrentAndNext": "Şu an {current} vakti • {next} vaktine {minutes} dk kaldı",
+    "countdownCurrentAndGeneric": "Şu an {current} vakti • Sonraki vakte {minutes} dk kaldı",
+    "countdownFinished": "Bugün için kalan vakit yok",
+    "moonCardTitle": "Ay durumu",
+    "moonPhaseNew": "Yeni ay",
+    "moonPhaseWaxingCrescent": "Hilal (büyüyen)",
+    "moonPhaseFirstQuarter": "İlkdördün",
+    "moonPhaseWaxingGibbous": "Büyüyen şişkin",
+    "moonPhaseFull": "Dolunay",
+    "moonPhaseWaningGibbous": "Küçülen şişkin",
+    "moonPhaseLastQuarter": "Sondördün",
+    "moonPhaseWaningCrescent": "Hilal (küçülen)",
+    "moonVisibleYes": "Bulunduğun konumda hilal büyük ihtimalle görülebilir.",
+    "moonVisibleNo": "Şu anda hilal bu konumdan görünür durumda değil.",
+    "moonVisibleUnknown": "Hilal görünürlüğü için yeterli veri alınamadı.",
+    "moonLoading": "Ay durumu yükleniyor…"
+  },
+  "prayerLabels": {
+    "Imsak": "İmsak",
+    "Fajr": "Sabah",
+    "Sunrise": "Güneş",
+    "Dhuhr": "Öğle",
+    "Asr": "İkindi",
+    "Maghrib": "Akşam",
+    "Isha": "Yatsı"
+  },
+  "prayerTexts": {
+    "Imsak": [
+      "İmsak, hem dilini hem kalbini oruca hazırlama vaktidir.",
+      "Gecenin son dilimi, duanın en kıymetli olduğu andır."
+    ],
+    "Fajr": [
+      "Sabah namazı, gününü aydınlatan ilk nurdur.",
+      "Güne, Rabbinin davetine icabet ederek başlamak kalbe sekine verir."
+    ],
+    "Dhuhr": [
+      "Günün koşuşturmasında öğle namazı kalbe küçük bir mola olur.",
+      "Dünya telaşının içinde kısa bir secde, bütün yorgunluğu hafifletebilir."
+    ],
+    "Asr": [
+      "İkindi vakti, günü muhasebe etme fırsatıdır.",
+      "Güneş batmaya yaklaşırken kalbin de Rabbine daha çok yönelsin."
+    ],
+    "Maghrib": [
+      "İftar sofrası nimettir; şükür ise bu nimetin ruhudur.",
+      "Gün, akşam ezanıyla kapanırken dua kapıları ardına kadar açıktır."
+    ],
+    "Isha": [
+      "Yatsı, günü tövbe ve teslimiyetle bitirme vaktidir.",
+      "Geceyi namaz ve dua ile süslemek, kalbe derin bir huzur verir."
+    ]
+  },
+  "ramadanNotes": [
+    "Ramazan, nefsi terbiye etme ve kalbi arındırma ayıdır.",
+    "Oruç, sadece aç kalmak değil; dili, gözü ve kalbi de korumaktır.",
+    "Ramazan geceleri, kalbin Rabbine en yakın olduğu anlardır.",
+    "Her iftar, sana verilen nimetleri yeniden hatırlama fırsatıdır.",
+    "Kur’an ayı olan Ramazan’da her gün, bir ayetle biraz daha diril.",
+    "Sadaka, Ramazan’da hem verenin hem alanın kalbini yumuşatır."
+  ],
+  "calendarHeaders": {
+    "gregorian": "Tarih (Miladi)",
+    "hijri": "Tarih (Hicrî)",
+    "imsak": "İmsak",
+    "fajr": "Sabah",
+    "maghrib": "Akşam",
+    "isha": "Yatsı"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ui": {
+    "title": "Gebetszeiten",
+    "subtitle": "Egal wo du bist auf der Welt 🌍",
+    "languageLabel": "🌐 Sprache",
+    "ramadanCountdownTitle": "Ramadan Countdown",
+    "notifButton": "Benachrichtigungen aktivieren",
+    "locationTitle": "Standort",
+    "locationHelp": "Nutze den automatischen Standort, Koordinaten oder einen Ortsnamen, um Gebetszeiten zu laden.",
+    "locationButton": "Meinen Standort verwenden",
+    "latLabel": "Breitengrad",
+    "lonLabel": "Längengrad",
+    "manualHelp": "Du kannst Breiten- und Längengrad auch manuell eingeben.",
+    "manualButton": "Koordinaten verwenden",
+    "nameLabel": "Stadt / Ortsname",
+    "namePlaceholder": "Z.B. Pfungstadt, Berlin, Istanbul",
+    "nameHelp": "Für bessere Ergebnisse Stadt und Land zusammen angeben.",
+    "statusWaiting": "Wähle einen Standort, um zu starten.",
+    "inspTitle": "Tägliche Erinnerung",
+    "inspHelp": "Eine kurze Koran-Übersetzung, die zur Anbetung motiviert.",
+    "inspRefresh": "Weitere Ayah zeigen",
+    "refreshTimes": "Zeiten aktualisieren",
+    "currentTimeTitle": "Aktuelle Uhrzeit",
+    "countdownTitle": "Nächstes Gebet",
+    "countdownNoData": "Wähle zuerst einen Standort und lade die Gebetszeiten.",
+    "ramadanInlinePlaceholder": "Die Ramadan-Tabelle wird hier angezeigt.",
+    "ramadanCountdownText": "Noch keine Ramadan-Countdown-Daten.",
+    "footerSource": "Zeitquelle: AlAdhan API",
+    "footerNote": "Erlaube den Standortzugriff im Browser auf HTTPS-Seiten. Falls es nicht funktioniert, kannst du Koordinaten oder einen Ortsnamen verwenden.",
+    "calTitle": "Ramadan-Zeiten",
+    "calHelp": "Zeigt alle Imsak- und Iftar-Zeiten im Ramadan für den gewählten Standort und das Jahr.",
+    "calYearLabel": "Jahr",
+    "calBtnText": "Tabelle laden",
+    "coordsPrefix": "Standort",
+    "statusLoadingTimes": "Gebetszeiten werden geladen…",
+    "statusSuccessTimes": "Gebetszeiten aktualisiert.",
+    "statusLocationUnsupported": "Dein Browser unterstützt keinen Standortzugriff. Du kannst mit Koordinaten oder Ortsnamen fortfahren.",
+    "statusGettingLocation": "Standort wird ermittelt…",
+    "statusLocationDenied": "Standortzugriff wurde abgelehnt. Du kannst mit Koordinaten oder Ortsnamen fortfahren.",
+    "statusLocationError": "Beim Ermitteln des Standorts ist ein Fehler aufgetreten.",
+    "statusInvalidCoords": "Bitte gültige Koordinaten eingeben.",
+    "statusInvalidName": "Bitte einen gültigen Ortsnamen eingeben.",
+    "calStatusLoading": "Ramadan-Tabelle wird geladen…",
+    "calStatusNoData": "Für dieses Jahr wurden keine Ramadan-Daten gefunden.",
+    "calStatusErrorPrefix": "Fehler beim Laden der Tabelle: ",
+    "statusErrorTimesPrefix": "Fehler beim Laden der Gebetszeiten: ",
+    "notifImsakSoon": "Noch 10 Minuten bis zum Imsak.",
+    "notifIftarSoon": "Noch 10 Minuten bis zum Iftar.",
+    "ramadanIftarInMinutes": "Bis zum Iftar sind es noch {minutes} Minuten",
+    "ramadanImsakInMinutes": "Bis zum Imsak sind es noch {minutes} Minuten",
+    "ramadanIftarInTime": "Verbleibende Zeit bis zum Iftar: {time}",
+    "ramadanImsakInTime": "Verbleibende Zeit bis zum Imsak: {time}",
+    "ramadanImsakStarted": "Die Imsak-Zeit hat begonnen.",
+    "ramadanIftarStarted": "Die Iftar-Zeit hat begonnen.",
+    "ramadanInlineNoData": "Für heute sind keine Ramadan-Countdown-Informationen verfügbar.",
+    "countdownCurrentAndNext": "Jetzt ist {current} • {next} in {minutes} Min.",
+    "countdownCurrentAndGeneric": "Jetzt ist {current} • Nächstes Gebet in {minutes} Min.",
+    "countdownFinished": "Für heute sind keine Gebete mehr übrig.",
+    "moonCardTitle": "Mondstatus",
+    "moonPhaseNew": "Neumond",
+    "moonPhaseWaxingCrescent": "Zunehmende Sichel (Hilal)",
+    "moonPhaseFirstQuarter": "Erstes Viertel",
+    "moonPhaseWaxingGibbous": "Zunehmender Dreiviertelmond",
+    "moonPhaseFull": "Vollmond",
+    "moonPhaseWaningGibbous": "Abnehmender Dreiviertelmond",
+    "moonPhaseLastQuarter": "Letztes Viertel",
+    "moonPhaseWaningCrescent": "Abnehmende Sichel (Hilal)",
+    "moonVisibleYes": "Die Mondsichel (Hilal) ist von deinem Standort aus wahrscheinlich sichtbar.",
+    "moonVisibleNo": "Die Mondsichel (Hilal) ist von deinem Standort aus derzeit nicht sichtbar.",
+    "moonVisibleUnknown": "Die Sichtbarkeit der Mondsichel konnte nicht ermittelt werden.",
+    "moonLoading": "Mondstatus wird geladen…"
+  },
+  "prayerLabels": {
+    "Imsak": "Imsak",
+    "Fajr": "Fajr",
+    "Sunrise": "Sonnenaufgang",
+    "Dhuhr": "Mittag",
+    "Asr": "Nachmittag",
+    "Maghrib": "Maghrib",
+    "Isha": "Isha"
+  },
+  "prayerTexts": {
+    "Imsak": [
+      "Imsak ist der Moment, Körper und Herz auf das Fasten vorzubereiten.",
+      "Der letzte Teil der Nacht ist eine kostbare Zeit für Bittgebete."
+    ],
+    "Fajr": [
+      "Das Fajr-Gebet bringt Licht und Barakah in deinen Tag.",
+      "Den Tag mit dem Ruf deines Herrn zu beginnen, schenkt dem Herzen Ruhe."
+    ],
+    "Dhuhr": [
+      "In der Hektik des Tages ist Dhuhr eine ruhige Pause für das Herz.",
+      "Eine kurze Niederwerfung zur Mittagszeit kann die Last auf der Seele erleichtern."
+    ],
+    "Asr": [
+      "Asr ist eine Gelegenheit, den Tag zu reflektieren, bevor er endet.",
+      "Wenn die Sonne sich dem Untergang nähert, soll sich dein Herz seinem Schöpfer nähern."
+    ],
+    "Maghrib": [
+      "Der Iftar-Tisch ist eine Gabe; Dankbarkeit ist ihre Seele.",
+      "Wenn der Tag mit Maghrib endet, stehen die Türen für Dua weit offen."
+    ],
+    "Isha": [
+      "Isha ist der Moment, den Tag mit Reue und Vertrauen abzuschließen.",
+      "Die Nacht mit Gebet und Dua zu schmücken, bringt tiefe Gelassenheit."
+    ]
+  },
+  "ramadanNotes": [
+    "Ramadan ist der Monat, in dem die Seele erzogen und das Herz gereinigt wird.",
+    "Fasten bedeutet mehr als Hunger; es heißt, Zunge, Augen und Herz zu schützen.",
+    "Die Nächte im Ramadan sind eine wertvolle Gelegenheit, Allah näher zu kommen.",
+    "Jedes Iftar erinnert dich daran, wie großzügig du versorgt wirst.",
+    "Ramadan ist der Monat des Korans; lass jeden Tag dein Herz durch eine Ayah neu beleben.",
+    "Spenden im Ramadan erweichen das Herz des Gebenden und des Empfangenden."
+  ],
+  "calendarHeaders": {
+    "gregorian": "Datum (Gregorianisch)",
+    "hijri": "Datum (Hijri)",
+    "imsak": "Imsak",
+    "fajr": "Fajr",
+    "maghrib": "Maghrib",
+    "isha": "Isha"
+  }
+}

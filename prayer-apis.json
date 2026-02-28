@@ -1,0 +1,40 @@
+{
+  "apis": [
+    {
+      "id": "aladhan",
+      "label": "Aladhan Global Prayer Times API",
+      "scope": "global",
+      "regions": [
+        "*"
+      ],
+      "priority": 10,
+      "authRequired": false,
+      "strategy": "coords",
+      "notes": "https://aladhan.com/prayer-times-api"
+    },
+    {
+      "id": "prayzone",
+      "label": "Pray.Zone API",
+      "scope": "global",
+      "regions": [
+        "*"
+      ],
+      "priority": 8,
+      "authRequired": false,
+      "strategy": "city",
+      "notes": "https://api.pray.zone/v2/times/today.json?city=stuttgart"
+    },
+    {
+      "id": "muslimsalat",
+      "label": "MuslimSalat.com API",
+      "scope": "global",
+      "regions": [
+        "*"
+      ],
+      "priority": 7,
+      "authRequired": true,
+      "strategy": "city",
+      "notes": "https://muslimsalat.com/api – API key gerekli"
+    }
+  ]
+}

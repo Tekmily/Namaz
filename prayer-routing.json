@@ -1,0 +1,20 @@
+{
+  "default": {
+    "method": 3,
+    "school": 1,
+    "latitudeAdjustmentMethod": 3,
+    "tune": "0,0,0,0,0,0"
+  },
+  "DE": {
+    "method": 3,
+    "school": 1,
+    "latitudeAdjustmentMethod": 3,
+    "tune": "0,0,0,0,0,0"
+  },
+  "TR": {
+    "method": 13,
+    "school": 1,
+    "latitudeAdjustmentMethod": 3,
+    "tune": "0,0,0,0,0,0"
+  }
+}

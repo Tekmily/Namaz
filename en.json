@@ -1,0 +1,124 @@
+{
+  "ui": {
+    "title": "Prayer Times",
+    "subtitle": "Wherever you are in the world 🌍",
+    "languageLabel": "🌐 Language",
+    "ramadanCountdownTitle": "Ramadan Countdown",
+    "notifButton": "Enable notifications",
+    "locationTitle": "Location",
+    "locationHelp": "Use automatic location, coordinates or a place name to load prayer times.",
+    "locationButton": "Use my location",
+    "latLabel": "Latitude",
+    "lonLabel": "Longitude",
+    "manualHelp": "You can also enter latitude and longitude manually.",
+    "manualButton": "Use coordinates",
+    "nameLabel": "City / place name",
+    "namePlaceholder": "E.g. Pfungstadt, Berlin, Istanbul",
+    "nameHelp": "For better results, include both city and country.",
+    "statusWaiting": "Choose a location to get started.",
+    "inspTitle": "Daily reminder",
+    "inspHelp": "A short Quran verse translation to inspire your worship.",
+    "inspRefresh": "Show another verse",
+    "refreshTimes": "Refresh times",
+    "currentTimeTitle": "Current time",
+    "countdownTitle": "Next prayer",
+    "countdownNoData": "Select a location and load prayer times first.",
+    "ramadanInlinePlaceholder": "Ramadan timetable information will appear here.",
+    "ramadanCountdownText": "No Ramadan countdown data yet.",
+    "footerSource": "Time source: AlAdhan API",
+    "footerNote": "Remember to allow location access in your browser on HTTPS pages. If it fails, you can use coordinates or a place name.",
+    "calTitle": "Ramadan Timetable",
+    "calHelp": "Shows all imsak and iftar times during Ramadan for the selected location and year.",
+    "calYearLabel": "Year",
+    "calBtnText": "Load timetable",
+    "coordsPrefix": "Location",
+    "statusLoadingTimes": "Loading prayer times…",
+    "statusSuccessTimes": "Prayer times updated.",
+    "statusLocationUnsupported": "Your browser does not support location access. You can continue with coordinates or a place name.",
+    "statusGettingLocation": "Getting your location…",
+    "statusLocationDenied": "Location permission was denied. You can continue with coordinates or a place name.",
+    "statusLocationError": "An error occurred while getting your location.",
+    "statusInvalidCoords": "Please enter valid latitude and longitude.",
+    "statusInvalidName": "Please enter a valid place name.",
+    "calStatusLoading": "Loading Ramadan timetable…",
+    "calStatusNoData": "No Ramadan data found for this year.",
+    "calStatusErrorPrefix": "Error while loading timetable: ",
+    "statusErrorTimesPrefix": "An error occurred while loading prayer times: ",
+    "notifImsakSoon": "10 minutes left until imsak.",
+    "notifIftarSoon": "10 minutes left until iftar.",
+    "ramadanIftarInMinutes": "{minutes} minutes left until iftar",
+    "ramadanImsakInMinutes": "{minutes} minutes left until imsak",
+    "ramadanIftarInTime": "Time left until iftar: {time}",
+    "ramadanImsakInTime": "Time left until imsak: {time}",
+    "ramadanImsakStarted": "Imsak time has started.",
+    "ramadanIftarStarted": "Iftar time has started.",
+    "ramadanInlineNoData": "No Ramadan countdown information available for today.",
+    "countdownCurrentAndNext": "Now it is {current} • {next} in {minutes} min",
+    "countdownCurrentAndGeneric": "Now it is {current} • Next prayer in {minutes} min",
+    "countdownFinished": "No remaining prayers for today.",
+    "moonCardTitle": "Moon status",
+    "moonPhaseNew": "New Moon",
+    "moonPhaseWaxingCrescent": "Waxing crescent (hilal)",
+    "moonPhaseFirstQuarter": "First quarter",
+    "moonPhaseWaxingGibbous": "Waxing gibbous",
+    "moonPhaseFull": "Full Moon",
+    "moonPhaseWaningGibbous": "Waning gibbous",
+    "moonPhaseLastQuarter": "Last quarter",
+    "moonPhaseWaningCrescent": "Waning crescent (hilal)",
+    "moonVisibleYes": "The crescent (hilal) is likely visible from your location.",
+    "moonVisibleNo": "The crescent (hilal) is not visible from your location right now.",
+    "moonVisibleUnknown": "Could not determine crescent visibility.",
+    "moonLoading": "Loading moon status…"
+  },
+  "prayerLabels": {
+    "Imsak": "Imsak",
+    "Fajr": "Fajr",
+    "Sunrise": "Sunrise",
+    "Dhuhr": "Dhuhr",
+    "Asr": "Asr",
+    "Maghrib": "Maghrib",
+    "Isha": "Isha"
+  },
+  "prayerTexts": {
+    "Imsak": [
+      "Imsak is the moment to prepare both your body and heart for fasting.",
+      "The last part of the night is a precious time for dua."
+    ],
+    "Fajr": [
+      "Fajr prayer brings light and barakah to your day.",
+      "Starting the day by answering your Lord’s call fills the heart with peace."
+    ],
+    "Dhuhr": [
+      "In the rush of the day, Dhuhr is a calm pause for the heart.",
+      "A brief prostration in the middle of the day can ease a heavy mind."
+    ],
+    "Asr": [
+      "Asr is a chance to review your day before it ends.",
+      "As the sun moves toward setting, let your heart move closer to its Lord."
+    ],
+    "Maghrib": [
+      "The iftar table is a blessing; gratitude is its soul.",
+      "As the day ends at Maghrib, the doors of dua are wide open."
+    ],
+    "Isha": [
+      "Isha is the time to end your day with repentance and trust.",
+      "Decorating the night with prayer and dua brings deep tranquility to the heart."
+    ]
+  },
+  "ramadanNotes": [
+    "Ramadan is a month of disciplining the soul and purifying the heart.",
+    "Fasting is more than hunger; it is protecting the tongue, the eyes and the heart.",
+    "The nights of Ramadan are precious opportunities to draw closer to Allah.",
+    "Every iftar is a reminder of how generously you are provided for.",
+    "Ramadan is the month of the Quran; let each day revive you with an ayah.",
+    "Charity in Ramadan softens both the giver’s and the receiver’s heart."
+  ],
+  "calendarHeaders": {
+    "gregorian": "Date (Gregorian)",
+    "hijri": "Date (Hijri)",
+    "imsak": "Imsak",
+    "fajr": "Fajr",
+    "maghrib": "Maghrib",
+    "isha": "Isha"
+  }
+}
